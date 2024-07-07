@@ -72,7 +72,7 @@
 	<div class="wrapper">
 		<div class="main-header">
 			<!-- Logo Header -->
-			<div class="logo-header" data-background-color="blue">
+			<div class="logo-header bg-info">
 				
 				<a href="index.php" class="logo" style="color:white;">
 				Software Kardex
@@ -192,7 +192,7 @@
 
 		<div class="main-panel">
 			<div class="content">
-				<div class="panel-header bg-dark2">
+				<div class="panel-header bg-info">
 					<div class="page-inner py-5">
 						<div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
 							<div>
