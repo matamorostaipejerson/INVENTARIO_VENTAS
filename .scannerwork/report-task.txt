@@ -1,0 +1,6 @@
+projectKey=SIAEES
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=SIAEES
+ceTaskId=38267779-3e2c-4bf0-8a54-96b6b48a97ca
+ceTaskUrl=http://localhost:9000/api/ce/task?id=38267779-3e2c-4bf0-8a54-96b6b48a97ca
