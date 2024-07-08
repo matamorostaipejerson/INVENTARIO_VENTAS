@@ -80,7 +80,7 @@
 	<div class="wrapper">
 		<div class="main-header">
 			<!-- Logo Header -->
-			<div class="logo-header" data-background-color="blue">
+			<div class="logo-header bg-info ">
 
 				<a href="index.php" class="logo" style="color:white;">
 					Software Kardex

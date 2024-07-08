@@ -43,15 +43,15 @@ if (isset($_POST['submit'])) {
 			<div class="row justify-content-center">
 			</div>
 			<div class="row justify-content-center">
-				<div class="col-md-12 col-lg-10">
+				<div class="col-md-12 col-lg-10 ">
 					<div class="wrap d-md-flex">
-						<div class="text-wrap p-4 p-lg-5 text-center d-flex align-items-center">
+						<div class="bg-info p-4 p-lg-5 text-center d-flex align-items-center rounded-left" >
 							<div class="text w-100">
 								<img src="./img/LogoKapri.png" alt="" width="100%">
 								<h2>Bienvenido al sistema de control de inventario</h2>
 							</div>
 						</div>
-						<div class="login-wrap p-4 p-lg-5">
+						<div class="login-wrap p-4 p-lg-5 rounded-left">
 							<div class="d-flex">
 
 								<div class="w-100">
