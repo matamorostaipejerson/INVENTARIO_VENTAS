@@ -16,7 +16,9 @@ pipeline {
     stage('install') {
       steps {
         git branch: 'develop', url: 'https://github.com/matamorostaipejerson/INVENTARIO_VENTAS'
+        dir(´Login´){
         sh 'npm install'
+        }
       }
     }
 
